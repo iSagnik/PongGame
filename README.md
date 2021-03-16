@@ -25,6 +25,6 @@ PackHacks Hacker Guide: [How to install Python](https://www.notion.so/Hacker-Res
 * Programming best practices
 
 
-## Python Library Dependencies
-* None
+## Dependencies
+1. Python 3.x
 
