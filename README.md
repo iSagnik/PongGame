@@ -7,11 +7,12 @@ PackHacks Hacker Guide: [How to install Python](https://www.notion.so/Hacker-Res
 ## Game View
 ![](https://user-images.githubusercontent.com/48783211/111239753-3becd280-85d0-11eb-940e-f2fc5a2925ef.png)
 
-## Topics Covered
+## Topics Covered in the game
 * Using the Turtle library for simple graphics development
 * Using loops and functions
 * Print formatting
 * Conditional Statements
+* Global variables
 
 
 ## Python Library Dependencies
