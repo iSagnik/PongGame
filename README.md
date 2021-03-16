@@ -4,6 +4,12 @@ A simple pong game tutorial to introduce python to beginner programmers. This tu
 ## Install Python
 PackHacks Hacker Guide: [How to install Python](https://www.notion.so/Hacker-Resources-cb0b84f22831494fb174571c065f502c#03d184ea17834231b0cc88b834352b0a)
 
+## Install a Text Editor
+Although any text editor will technically work, I'd recommend one that has some tools to help us write python.
+- [Visual Studio Code](https://code.visualstudio.com/) is an open-source code editor created by Microsoft.
+It's the editor I use throughout the tutorial.
+- [Atom](https://atom.io/) is a free and open-source text editor developed by GitHub.
+You can install a package like [atom-beaufity](https://atom.io/packages/atom-beautify) to help format your code.
 ## Game View
 ![](https://user-images.githubusercontent.com/48783211/111239753-3becd280-85d0-11eb-940e-f2fc5a2925ef.png)
 
