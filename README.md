@@ -22,6 +22,7 @@ PackHacks Hacker Guide: [How to install Python](https://www.notion.so/Hacker-Res
 * String formatting methods
 * Conditional Statements
 * Global variables
+* Programming best practices
 
 
 ## Python Library Dependencies
