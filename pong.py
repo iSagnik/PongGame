@@ -1,13 +1,13 @@
 '''
 Simple Pong Game for python beginners
-Code adapted from @TokyoEdTech
+Code adapted from @TokyoEdTech's freeCodeCamp.org tutorial
 @author Sagnik
 @date 3/15/2021
 '''
 #dependency for simple graphics development
 import turtle
-import random
 
+#global variables for the ball movement
 BALL_X = 0.12
 BALL_Y = -0.12
 
@@ -74,7 +74,6 @@ pen.penup()
 pen.hideturtle()
 pen.goto(0, 220)
 pen.clear()
-print(score_1, score_2)
 pen.write("Player 1    {}    |    {}     Player 2".format(score_1, score_2), align="center", font=("Courier", 24, "normal"))
 
 '''paddle controllers'''
@@ -147,7 +146,7 @@ while True:
         ball.dx *= - 1
         score_1 += 1
         pen.clear()
-        pen.write("Player 1    {}    |    {}     Player 2".format(score_1, score_2), align="center", font=("Courier", 24, "normal"))
+        pen.write(f"Player 1    {score_1}    |    {score_2}     Player 2", align="center", font=("Courier", 24, "normal"))
 
     #goes off left side
     if ball.xcor() < -390:
@@ -157,7 +156,7 @@ while True:
         ball.dx *= - 1
         score_2 += 1
         pen.clear()
-        pen.write("Player 1    {}    |    {}     Player 2".format(score_1, score_2), align="center", font=("Courier", 24, "normal"))
+        pen.write("Player 1    %d    |    %d     Player 2" % (score_1, score_2), align="center", font=("Courier", 24, "normal"))
 
     #paddle collisions
     if ( ball.xcor() > 340 and ball.xcor() < 350 ) and ( ball.ycor() < paddle_2.ycor() + 40 and ball.ycor() > paddle_2.ycor() - 40 ):
