@@ -49,7 +49,7 @@ Sagnik B
 
 #### Email 
 
-1. <isagnikbhattacharjee@gmail.com>
+<isagnikbhattacharjee@gmail.com>
 
 #### Socials
 1. [LinkedIn](https://linkedin.com/in/sagnik10)
