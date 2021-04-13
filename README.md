@@ -49,8 +49,7 @@ Sagnik B
 
 #### Email 
 
-1. <snayak3@ncsu.edu>
-2. <isagnikbhattachrjee@gmail.com>
+1. <isagnikbhattacharjee@gmail.com>
 
 #### Socials
 1. [LinkedIn](https://linkedin.com/in/sagnik10)
